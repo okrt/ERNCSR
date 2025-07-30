@@ -1,0 +1,13 @@
+tqdm
+pillow
+opencv-contrib-python
+matplotlib
+scikit-image
+pandas
+psutil
+kornia
+natsort
+tabulate
+pillow-avif-plugin
+lpips
+onnx
